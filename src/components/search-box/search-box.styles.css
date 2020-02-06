@@ -1,0 +1,8 @@
+.search-box {
+    margin: 20px;  
+    border-radius: 30px;
+}
+
+.search-box:hover {
+    border-radius: 0px;
+}
